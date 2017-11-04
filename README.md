@@ -1,2 +1,3 @@
-# api-gateway-demo-sign-java
-aliyun api gateway request signature demo by java
+人脸识别
+阿里云人脸识别接口＋数据清洗＋mysql＋图像识别算法
+
